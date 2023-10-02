@@ -21,7 +21,7 @@ The stolen funds have been [transferred](https://www.kucoin.com/ru/news/en-the-l
 - 1NRsEQRg5EjmJHbPUX7YADVPcPzCQBkyU7 (USDT)
 - TB3j1gUXaLXXq2bstiSMfjQ9R7Yh9DdDgK (TRX)
 
-84% of the stolen assets have been eventually [recovered](https://twitter.com/lyu_johnny/status/1326465021346373632?s=20) by the company.
+Eventually, 84% of the stolen assets have been [recovered](https://twitter.com/lyu_johnny/status/1326465021346373632?s=20) by the company.
 
 ###### 2023-04-24
 
