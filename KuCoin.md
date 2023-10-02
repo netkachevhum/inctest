@@ -1,6 +1,6 @@
 ## KuCoin
 
-#### Entity type: Exchange
+#### Entity type: Cryptocurrency Exchange
 
 #### Associated scams
 
