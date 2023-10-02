@@ -16,3 +16,6 @@ https://www.coindesk.com/markets/2020/09/26/over-280m-drained-in-kucoin-crypto-e
 
 26k stolen
 https://economictimes.indiatimes.com/tech/technology/over-22-6k-stolen-from-crypto-exchange-kucoins-hacked-twitter-account/articleshow/99763368.cms?from=mdr
+
+The bar plot below shows the ration of scam-related mentions of KuCoin in Google News during 2022 (the total of 514 mentions was collected):
+
