@@ -27,7 +27,7 @@ Eventually, 84% of the stolen assets have been [recovered](https://twitter.com/l
 
 On April 24, unknown hackers have [obtained](https://twitter.com/kucoincom/status/1650336619730436099?t=4qo2Gc_xjnhXkqLCOGYGqg&s=19) access to KuCoin's Twitter account for 45 minutes. They have organized a fake giveaway scam, which resulted in [22 ETH/BTC transactions](https://twitter.com/kucoincom/status/1650336624046411777) associated with the fake activity. The victims have lost 22,628 USDT; according to [company's statement on Twitter](https://twitter.com/kucoincom/status/1650336619730436099), KuCoin is committed to reimburse them in full. 
 
-The bar plot below shows the ratio of scam-related mentions of KuCoin in Google News during 2022 (the total of 514 mentions was collected):
+The bar plot below shows the ratio of scam-related mentions of KuCoin in Google News during 2022 (the total of 508 mentions was collected):
 
 ![plt1](https://raw.githubusercontent.com/netkachevhum/inctest/main/chart1.png)
 
