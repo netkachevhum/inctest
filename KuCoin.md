@@ -10,8 +10,7 @@ On September 26, 2020, unknown hackers have [obtained](https://www.kucoin.com/ru
 
 The stolen funds have been [transferred](https://www.kucoin.com/ru/news/en-the-latest-updates-about-the-kucoin-security-incident) to the following wallet addresses:
 
-ETH: 0xeb31973e0febf3e3d7058234a5ebbae1ab4b8c23 (ETH)
-
+- 0xeb31973e0febf3e3d7058234a5ebbae1ab4b8c23 (ETH)
 - 1NRsEQRg5EjmJHbPUX7YADVPcPzCQBkyU7 (BTC)
 - 12FACbewf5Fy9nmeaLQtm6Ugo5WS8g2Hay (BTC)
 - 1TYyommJW3uhjhcnHhUSuTQFqSBAxBDPV (BTC)
@@ -24,25 +23,9 @@ ETH: 0xeb31973e0febf3e3d7058234a5ebbae1ab4b8c23 (ETH)
 
 84% of the stolen assets have been eventually [recovered](https://twitter.com/lyu_johnny/status/1326465021346373632?s=20) by the company.
 
-
-
-KuCoin transferred what was left in them to new hot wallets, abandoned the old ones and froze customer deposits and withdrawals, Lyu said.
-
-The Singapore-headquartered digital asset exchange KuCoin said in a statement it detected large withdrawals of bitcoin (BTC) and ethereum (ETH) tokens to an unknown wallet beginning at 19:05 UTC on Friday. 
-
-In a live stream on 4:30 UTC Saturday, KuCoin CEO Johnny Lyu said one or more hackers obtained the private keys to the exchange’s hot wallets. KuCoin transferred what was left in them to new hot wallets, abandoned the old ones and froze customer deposits and withdrawals, Lyu said.
-
-In an updated statement on its website, KuCoin released a list of BTC, bitcoin sv (BSV), ETH, litecoin (LTC), XRP, Stellar lumens (XLM), tron (TRX) and tether (USDT) wallet addresses where the stolen funds were transferred.
-
-
-https://www.coindesk.com/markets/2020/09/26/over-280m-drained-in-kucoin-crypto-exchange-hack/
-
-https://twitter.com/lyu_johnny/status/1326465021346373632?s=20 
-
 ###### 2023-04-24
 
-26k stolen
-https://economictimes.indiatimes.com/tech/technology/over-22-6k-stolen-from-crypto-exchange-kucoins-hacked-twitter-account/articleshow/99763368.cms?from=mdr
+On April 24, unknown hackers have [obtained](https://twitter.com/kucoincom/status/1650336619730436099?t=4qo2Gc_xjnhXkqLCOGYGqg&s=19) access to KuCoin's Twitter account for 45 minutes. They have organized a fake giveaway scam, which resulted in [22 ETH/BTC transactions](https://twitter.com/kucoincom/status/1650336624046411777) associated with the fake activity. The victims have lost 22,628 USDT. According to [company's statement on Twitter](https://twitter.com/kucoincom/status/1650336619730436099), KuCoin is committed to reimburse the victims in full. 
 
 The bar plot below shows the ratio of scam-related mentions of KuCoin in Google News during 2022 (the total of 514 mentions was collected):
 
