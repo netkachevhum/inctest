@@ -19,3 +19,4 @@ https://economictimes.indiatimes.com/tech/technology/over-22-6k-stolen-from-cryp
 
 The bar plot below shows the ration of scam-related mentions of KuCoin in Google News during 2022 (the total of 514 mentions was collected):
 
+![txt](https://raw.githubusercontent.com/netkachevhum/inctest/main/chart1.png)
